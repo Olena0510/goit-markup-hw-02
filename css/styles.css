@@ -39,7 +39,7 @@
 
  body{
     color :var(--primary-text-color);
-    font-family: Roboto, Relaway sans-serif;
+    font-family: Roboto, sans-serif;
  }
 
  /* header */
@@ -116,6 +116,7 @@ footer{
     letter-spacing: 0.06em;
     color: var(--primary-white-color);
     background-color: var(--accent-color);
+    cursor: pointer;
 }
 .about-btn:hover,
 .about-btn:focus{
